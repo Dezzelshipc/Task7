@@ -1,6 +1,6 @@
 ﻿namespace Task7
 {
-    interface List<T> //old
+    interface List<T> //old; new in 142 and from 295
     {
         void add(T element);
         void put(T element, int position);
